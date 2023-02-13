@@ -1,0 +1,21 @@
+button{
+    background-color: white;
+
+}
+.btn1
+{
+    background-color: yellow;
+}
+button:active {
+    background-color: yellow;
+  }
+.romance
+{
+    display:flex;
+    justify-content: center;
+}
+.space
+{
+    display: flex;
+    justify-content: space-around;
+}
